@@ -1,0 +1,35 @@
+<body>
+  <h1><a href="index.html">basketball players</a></h1>
+  <ol>
+    <li><a href="1.html">jimmy butler</a></li></li>
+    <li><a href="2.html">lebron james</a></li>
+    <li><a href="3.html">tyler herro</a></li>
+  </ol>
+  <h2>jimmy butler</h2>
+  <p>Jimmy Butler III (born September 14, 1989) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA). After playing one year of college basketball for Tyler Junior College, he transferred to Marquette University. He was drafted with the 30th overall pick in the 2011 NBA draft by the Chicago Bulls. Nicknamed "Jimmy Buckets",[1] Butler is a five-time NBA All-Star, a four-time All-NBA Team honoree and a five-time NBA All-Defensive Team honoree. In 2015, he was named the NBA Most Improved Player.</p>
+
+<!dictype html>
+<html>
+<head>
+  <title>WEB1 - html</title>
+  <meta charset="utf-8"
+</head>
+<body>
+  <h1><a href="index.html">basketball players</a></h1>
+  <ol>
+    <li><a href="1.html">jimmy butler</a></li></li>
+    <li><a href="2.html">lebron james</a></li>
+    <li><a href="3.html">tyler herro</a></li>
+  </ol>
+  <h2>lebron james</h2>
+  <p>LeBron Raymone James Sr. (/ləˈbrɒn/; born December 30, 1984) is an American professional basketball player for the Los Angeles Lakers of the National Basketball Association (NBA). Nicknamed "King James", he is widely considered one of the greatest players in NBA history and is frequently compared to Michael Jordan in debates over the greatest basketball player ever.[1] The only player to have won NBA championships with three franchises (the Cleveland Cavaliers, the Miami Heat, and the Lakers) as NBA Finals MVP</p>
+
+<body>
+  <h1><a href="index.html">basketball players</a></h1>
+  <ol>
+    <li><a href="1.html">jimmy butler</a></li></li>
+    <li><a href="2.html">lebron james</a></li>
+    <li><a href="3.html">tyler herro</a></li>
+  </ol>
+  <h2>tyler herro</h2>
+  <p>Tyler Christopher Herro (/ˈhiːroʊ/ HEE-roh; born January 20, 2000) is an American professional basketball player for the Miami Heat of the National Basketball Association (NBA).[1] He played college basketball for one year with the Kentucky Wildcats men's basketball.[2] After being selected by the Heat in the first round of the 2019 NBA draft with the 13th overall pick, he was named to the NBA All-Rookie Second Team in 2020.</p>
